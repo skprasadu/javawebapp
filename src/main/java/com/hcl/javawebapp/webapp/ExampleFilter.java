@@ -1,4 +1,4 @@
-package org.example.webapp;
+package com.hcl.javawebapp.webapp;
 
 import java.io.IOException;
 
